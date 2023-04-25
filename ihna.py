@@ -1,13 +1,6 @@
-#2
-string = ['hi', 'mene', 'zvaty', 'vova']
-    s = input("введіть текст: ")
-def comit_vowels(s):
-    volwes = "asdadasd"
-    count = 0
-    for leters in s:
-        if leters in volwes:
-            count += 1
-        return count
-#демонстрація
-for s in strings:
-    print(f"у рядку {s} голосних літер {count_vowels(s)}")
+#3
+lst = [1,2,3,4,5]
+def = squares_list(lst):
+    return[i**2 for i in lst]
+print(squares_list(lst))
+lists = [[2,3,4,4], [3,4,5,6,7,4], [3,5,7,8]]
